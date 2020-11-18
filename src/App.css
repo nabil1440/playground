@@ -1,0 +1,8 @@
+body,
+div {
+  max-width: 100%;
+}
+
+.MuiFormControl-root {
+  margin: 20px 0 !important;
+}
